@@ -1,0 +1,19 @@
+{
+  "name": "arjotbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "arjot"
+  ],
+  "author": "arjit singh thakur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
